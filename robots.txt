@@ -1,0 +1,4 @@
+User-Agent : *
+Disallow : /mask/
+Disallow : /project_data/
+Disallow : /no-index/

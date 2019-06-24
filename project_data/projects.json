@@ -1,0 +1,134 @@
+{
+    "major_projects":  [
+        {
+            "image_link": "https://dhyeythumar.github.io/impression/mask/d_contact_list.svg",
+            "link": "https://dhyey.pythonanywhere.com/signup/",
+            "proj_name": "Django Contact List",
+            "date": 2019,
+            "tags": [ "Python", "Django Framework"],
+            "content": "I have created this application to get the insights of the Django framework (how it works) and how to integrate with the frontend."
+        },
+        {
+            "image_link": "https://dhyeythumar.github.io/impression/mask/prediction.png",
+            "link": "https://github.com/Dhyeythumar/Data-prediction-and-plotting",
+            "proj_name": "Data Prediction & Plotting",
+            "date": 2019,
+            "tags": [ "Python", "Plotly (python graphical library)"],
+            "content": "I have created this project to predict the semester pointers with the help of a minimum amount of data available."
+        },
+        {
+            "image_link": "https://dhyeythumar.github.io/impression/mask/icacta.png",
+            "link": "http://djicacta.in/",
+            "proj_name": "ICACTA",
+            "date": 2019,
+            "tags": [ "College Organization", "Brosure Design"],
+            "content": "ICACTA is an International Conference on Advanced Computing Technologies and Applications conducted by my college."
+        },
+        {
+            "image_link": "https://dhyeythumar.github.io/impression/mask/dynamic_data.svg",
+            "link": "#",
+            "proj_name": "Dynamic Data",
+            "date": 2019,
+            "tags": [ "Web Design"],
+            "content": "I wanted to create a web page design which can efficiently display the dynamic data which is frequently updated."
+        },
+        {
+            "image_link": "https://dhyeythumar.github.io/impression/mask/news_app.svg",
+            "link": "#",
+            "proj_name": "ORed News App",
+            "date": 2019,
+            "tags": ["App Design"],
+            "content": "My aim to create this design was to provide a better user interface for the people who likes to read news from app."
+        },
+        {
+            "image_link": "https://dhyeythumar.github.io/impression/mask/dj_archive.svg",
+            "link": "#",
+            "proj_name": "DJ Archive",
+            "date": 2019,
+            "tags": [ "DJ Unicode", "Student Organization", "Web Design"],
+            "content": "This application aims to handle all the Major_projects done by my seniors in their final year so, in future juniors can refer them."
+        },
+        {
+            "image_link": "https://dhyeythumar.github.io/impression/mask/m_indicator.svg",
+            "link": "#",
+            "proj_name": "m-Indicator App",
+            "date": 2018,
+            "tags": [ "Hackathon", "App Redesign"],
+            "content": "By this app redesign, I understood that I have failed to interpret the problem statement correctly."
+        },
+        {
+            "image_link": "https://dhyeythumar.github.io/impression/mask/project_finder.svg",
+            "link": "#",
+            "proj_name": "Project Finder",
+            "date": 2018,
+            "tags": [ "DJ Unicode", "College Organization", "Web Design"],
+            "content": "This organization is created by students of my college to provide various automation features with the help of the technology."
+        },
+        {
+            "image_link": "https://dhyeythumar.github.io/impression/mask/profile_page.svg",
+            "link": "#",
+            "proj_name": "Profile Page",
+            "date": 2018,
+            "tags": [ "Web Design"],
+            "content": "This social profile design page provides a way to display the user's data in a visually appealing manner. The key feature in this design is the user can customize their profile as they like."
+        },
+        {
+            "image_link": "https://dhyeythumar.github.io/impression/mask/designer_company.svg",
+            "link": "#",
+            "proj_name": "Back Bone",
+            "date": 2018,
+            "tags": [ "Web Design", "Designer Company"],
+            "content": "My first web design using UI/UX standards. The concept was to create a company who provides the design solution (such as logos, web pages)."
+        },
+        {
+            "image_link": "https://dhyeythumar.github.io/impression/mask/digital.png",
+            "link": "https://github.com/Dhyeythumar/Digital-Citizen",
+            "proj_name": "Digital Citizen",
+            "date": 2018,
+            "tags": [ "TSEC Hackathon","Web Development"],
+            "content": "My first ever hackathon on web development in TSEC got an amazing experience with my team members and learned a lot."
+        },
+        {
+            "image_link": "https://dhyeythumar.github.io/impression/mask/printers.png",
+            "link": "https://dhyeythumar.github.io/3D-Metal-Printer/",
+            "proj_name": "Galaxy 3D Metal Printers",
+            "date": 2018,
+            "tags": ["Web Development"],
+            "content": "This project was created to refresh the HTML and CSS skills learned in junior college."
+        }
+    ],
+    "mini_projects":  [
+        {
+            "image_link": "xyz",
+            "link": "#",
+            "proj_name": "Spy",
+            "date": 2019,
+            "tags": [ "Shell Scripting",  "Mini Project"],
+            "content": "This project tracks (i.e takes screenshots and logs the commands written in terminal) the anonymous user logged into a guest section."
+        },
+        {
+            "image_link": "xyz",
+            "link": "#",
+            "proj_name": "Captcha Generation",
+            "date": 2019,
+            "tags": [ "Computer Graphics",  "Mini Project"],
+            "content": "This project uses the graphics library in C to display the generated random 6 digit captcha which changes on ever key/alphabet is pressed on the keyboard."
+        },
+        {
+            "image_link": "xyz",
+            "link": "#",
+            "proj_name": "Contact List",
+            "date": 2018,
+            "tags": [ "Data Structure in C", "Algorithm", "Mini Project"],
+            "content": "Created an algorithm to converted an array of names into balanced BST without any using any existing algorithm which does this work."
+        },
+        {
+            "image_link": "xyz",
+            "link": "#",
+            "proj_name": "Artgallery Management",
+            "date": 2018,
+            "tags": [ "Java (Swing)", "Mini Project"],
+            "content": "This project uses the Java Swing to create a graphical interface for the art gallery admins who can manage the arts in their gallery digitally."
+        }
+    ]
+}

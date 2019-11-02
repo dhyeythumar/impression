@@ -1,6 +1,14 @@
 {
     "major_projects":  [
          {
+            "image_link": "https://dhyeythumar.github.io/impression/mask/search_engine.svg",
+            "link": "https://github.com/Dhyeythumar/Search_Engine",
+            "proj_name": "Search Engine",
+            "date": 2019,
+            "tags": ["Node JS", "Python", "Web Crawling", "NLTK", "Lemmatization"],
+            "content": "This project uses web crawling to get the data from each web page and stores them into a MySQL database. This data is then displayed based on the user's queries. I was eager to learn how the search engine works, so this is an attempt to create one."
+        },
+         {
             "image_link": "https://dhyeythumar.github.io/impression/mask/queue_manager.svg",
             "link": "#",
             "proj_name": "Queue Management",

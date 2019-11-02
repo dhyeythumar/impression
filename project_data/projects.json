@@ -1,6 +1,14 @@
 {
     "major_projects":  [
         {
+            "image_link": "https://dhyeythumar.github.io/impression/mask/factstory.svg",
+            "link": "#",
+            "proj_name": "Fact Story",
+            "date": 2019,
+            "tags": [ "Intership", "App & Web Designs"],
+            "content": "This company aims to provide the facts to the users on their fingertips (anytime, anywhere) of there choices."
+        },
+        {
             "image_link": "https://dhyeythumar.github.io/impression/mask/d_contact_list.svg",
             "link": "https://dhyey.pythonanywhere.com/signup/",
             "proj_name": "Django Contact List",

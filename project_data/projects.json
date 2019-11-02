@@ -1,5 +1,13 @@
 {
     "major_projects":  [
+         {
+            "image_link": "https://dhyeythumar.github.io/impression/mask/queue_manager.svg",
+            "link": "#",
+            "proj_name": "Queue Management",
+            "date": 2019,
+            "tags": [ "Cabbagesoft Technologies", "Intership"],
+            "content": "Queue application provides an efficient way to handle queues in shopping marts/hospitals by prebooking tokens/appointments at your convenient time."
+        },
         {
             "image_link": "https://dhyeythumar.github.io/impression/mask/factstory.svg",
             "link": "#",

@@ -9,6 +9,14 @@
             "content": "I was eager to learn how the search engine works, so it is an attempt to create one. This project uses web crawling to get the data from each web page and stores them into a MySQL database. This data is then displayed based on the user's queries."
         },
         {
+            "image_link": "https://dhyeythumar.github.io/impression/mask/queue_manager.jpg",
+            "link": "#",
+            "proj_name": "Queue Management",
+            "date": 2019,
+            "tags": [ "Cabbagesoft Technologies", "Intership"],
+            "content": "Queue application provides an efficient way to handle queues in shopping marts/hospitals by prebooking tokens/appointments at your convenient time."
+        },
+        {
             "image_link": "https://dhyeythumar.github.io/impression/mask/factstory.jpg",
             "link": "#",
             "proj_name": "Fact Story",

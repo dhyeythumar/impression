@@ -3,7 +3,7 @@
         {
             "image_link": "https://dhyeythumar.github.io/impression/mask/pypi.jpg",
             "link": "https://github.com/Dhyeythumar/cv2module",
-            "proj_name": "cv2module 0.1.1",
+            "proj_name": "cv2module 0.1.2",
             "date": 2020,
             "tags": ["CV2 Utilities", "Python Package"],
             "content": "This is a package is created to assist the smooth workflow with OpenCV by providing essentials functions such as creating object tracker for any image/video feed using color mask, resizing, rotating, etc."

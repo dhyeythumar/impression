@@ -1,7 +1,7 @@
 {
     "major_projects":  [
         {
-            "image_link": "https://dhyeythumar.github.io/impression/mask/pypi.jpg",
+            "image_link": "https://dhyeythumar.github.io/impression/portfolio-v1/pypi.jpg",
             "link": "https://github.com/Dhyeythumar/cv2module",
             "proj_name": "cv2module 0.1.2",
             "date": 2020,
@@ -9,7 +9,7 @@
             "content": "This package is created to assist the smooth workflow with OpenCV by providing essentials functions such as object detection and tracking for any image/video feed using color filtration, resizing, rotating, etc."
         },
         {
-            "image_link": "https://dhyeythumar.github.io/impression/mask/search_engine.jpg",
+            "image_link": "https://dhyeythumar.github.io/impression/portfolio-v1/search_engine.jpg",
             "link": "https://github.com/Dhyeythumar/Search-Engine",
             "proj_name": "Eyers Search Engine",
             "date": 2019,
@@ -17,7 +17,7 @@
             "content": "I was eager to learn how the search engine works, so it is an attempt to create one. This project uses web crawling to get the data from each web page and stores them into a MySQL database. This data is then displayed based on the user's queries."
         },
         {
-            "image_link": "https://dhyeythumar.github.io/impression/mask/queue_manager.jpg",
+            "image_link": "https://dhyeythumar.github.io/impression/portfolio-v1/queue_manager.jpg",
             "link": "#",
             "proj_name": "Queue Management",
             "date": 2019,
@@ -25,7 +25,7 @@
             "content": "Queue application provides an efficient way to handle queues in shopping marts/hospitals by prebooking tokens/appointments at your convenient time."
         },
         {
-            "image_link": "https://dhyeythumar.github.io/impression/mask/factstory.jpg",
+            "image_link": "https://dhyeythumar.github.io/impression/portfolio-v1/factstory.jpg",
             "link": "#",
             "proj_name": "Fact Story",
             "date": 2019,
@@ -33,7 +33,7 @@
             "content": "This company aims to provide the facts to the users on their fingertips (anytime, anywhere) of there choices."
         },
         {
-            "image_link": "https://dhyeythumar.github.io/impression/mask/d_contact_list.jpg",
+            "image_link": "https://dhyeythumar.github.io/impression/portfolio-v1/d_contact_list.jpg",
             "link": "https://dhyey.pythonanywhere.com/signup/",
             "proj_name": "Django Contact List",
             "date": 2019,
@@ -41,7 +41,7 @@
             "content": "I have created this application to get the insights of the Django framework (how it works) and how to integrate with the frontend."
         },
         {
-            "image_link": "https://dhyeythumar.github.io/impression/mask/prediction.jpg",
+            "image_link": "https://dhyeythumar.github.io/impression/portfolio-v1/prediction.jpg",
             "link": "https://github.com/Dhyeythumar/Data-prediction-and-plotting",
             "proj_name": "Data Prediction & Plotting",
             "date": 2019,
@@ -49,7 +49,7 @@
             "content": "I have created this project to predict the semester pointers with the help of a minimum amount of data available."
         },
         {
-            "image_link": "https://dhyeythumar.github.io/impression/mask/icacta.jpg",
+            "image_link": "https://dhyeythumar.github.io/impression/portfolio-v1/icacta.jpg",
             "link": "http://djicacta.in/",
             "proj_name": "ICACTA",
             "date": 2019,
@@ -57,7 +57,7 @@
             "content": "ICACTA is an International Conference on Advanced Computing Technologies and Applications conducted by my college."
         },
         {
-            "image_link": "https://dhyeythumar.github.io/impression/mask/dynamic_data.jpg",
+            "image_link": "https://dhyeythumar.github.io/impression/portfolio-v1/dynamic_data.jpg",
             "link": "#",
             "proj_name": "Dynamic Data",
             "date": 2019,
@@ -65,7 +65,7 @@
             "content": "I wanted to create a web page design which can efficiently display the dynamic data which is frequently updated."
         },
         {
-            "image_link": "https://dhyeythumar.github.io/impression/mask/news_app.jpg",
+            "image_link": "https://dhyeythumar.github.io/impression/portfolio-v1/news_app.jpg",
             "link": "#",
             "proj_name": "ORed News App",
             "date": 2019,
@@ -73,7 +73,7 @@
             "content": "My aim to create this design was to provide a better user interface for the people who likes to read news from app."
         },
         {
-            "image_link": "https://dhyeythumar.github.io/impression/mask/dj_archive.jpg",
+            "image_link": "https://dhyeythumar.github.io/impression/portfolio-v1/dj_archive.jpg",
             "link": "#",
             "proj_name": "DJ Archive",
             "date": 2019,
@@ -81,7 +81,7 @@
             "content": "This application aims to handle all the Major_projects done by my seniors in their final year so, in future juniors can refer them."
         },
         {
-            "image_link": "https://dhyeythumar.github.io/impression/mask/m_indicator.jpg",
+            "image_link": "https://dhyeythumar.github.io/impression/portfolio-v1/m_indicator.jpg",
             "link": "#",
             "proj_name": "m-Indicator App",
             "date": 2018,
@@ -89,7 +89,7 @@
             "content": "By this app redesign, I understood that I have failed to interpret the problem statement correctly."
         },
         {
-            "image_link": "https://dhyeythumar.github.io/impression/mask/project_finder.jpg",
+            "image_link": "https://dhyeythumar.github.io/impression/portfolio-v1/project_finder.jpg",
             "link": "#",
             "proj_name": "Project Finder",
             "date": 2018,
@@ -97,7 +97,7 @@
             "content": "This organization is created by students of my college to provide various automation features with the help of the technology."
         },
         {
-            "image_link": "https://dhyeythumar.github.io/impression/mask/profile_page.jpg",
+            "image_link": "https://dhyeythumar.github.io/impression/portfolio-v1/profile_page.jpg",
             "link": "#",
             "proj_name": "Profile Page",
             "date": 2018,
@@ -105,7 +105,7 @@
             "content": "This social profile design page provides a way to display the user's data in a visually appealing manner. The key feature in this design is the user can customize their profile as they like."
         },
         {
-            "image_link": "https://dhyeythumar.github.io/impression/mask/designer_company.jpg",
+            "image_link": "https://dhyeythumar.github.io/impression/portfolio-v1/designer_company.jpg",
             "link": "#",
             "proj_name": "Back Bone",
             "date": 2018,
@@ -113,7 +113,7 @@
             "content": "My first web design using UI/UX standards. The concept was to create a company who provides the design solution (such as logos, web pages)."
         },
         {
-            "image_link": "https://dhyeythumar.github.io/impression/mask/digital.jpg",
+            "image_link": "https://dhyeythumar.github.io/impression/portfolio-v1/digital.jpg",
             "link": "https://github.com/Dhyeythumar/Digital-Citizen",
             "proj_name": "Digital Citizen",
             "date": 2018,
@@ -121,7 +121,7 @@
             "content": "My first ever hackathon on web development in TSEC got an amazing experience with my team members and learned a lot."
         },
         {
-            "image_link": "https://dhyeythumar.github.io/impression/mask/printers.jpg",
+            "image_link": "https://dhyeythumar.github.io/impression/portfolio-v1/printers.jpg",
             "link": "https://dhyeythumar.github.io/3D-Metal-Printer/",
             "proj_name": "Galaxy 3D Metal Printers",
             "date": 2018,
